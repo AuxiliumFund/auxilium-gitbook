@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AuxiliumFund/auxilium-gitbook/issues"
   },
-  "homepage": "https://github.com/AuxiliumFund/auxilium-gitbook#readme"
+  "homepage": "https://github.com/AuxiliumFund/auxilium-gitbook#readme",
+  "dependencies": {
+    "graceful-fs": "^4.2.9"
+  }
 }
