@@ -18,6 +18,6 @@
   "homepage": "https://github.com/AuxiliumFund/auxilium-gitbook#readme",
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "graceful-fs": "^4.2.9"
+    "graceful-fs": "4.2.0"
   }
 }
