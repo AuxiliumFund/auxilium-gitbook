@@ -11,7 +11,8 @@
 * [Genesis NFT 🖼️](get-to-know-auxilium/genesis-nft.md)
 * [Staking✨](get-to-know-auxilium/staking.md)
 * [Victim NFT😥](get-to-know-auxilium/victim-nft.md)
-* [Tokenomics💰](get-to-know-auxilium/tokenomics.md)
+* [Tokenomics💰](get-to-know-auxilium/tokenomics/README.md)
+  * [Additional protocol features](get-to-know-auxilium/tokenomics/additional-protocol-features.md)
 
 ## ⛰ The Future
 
