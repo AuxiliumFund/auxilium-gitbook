@@ -11,8 +11,11 @@
 * [Genesis NFT 🖼️](get-to-know-auxilium/genesis-nft.md)
 * [Staking✨](get-to-know-auxilium/staking.md)
 * [Victim NFT😥](get-to-know-auxilium/victim-nft.md)
-* [Tokenomics💰](get-to-know-auxilium/tokenomics/README.md)
-  * [Additional protocol features](get-to-know-auxilium/tokenomics/additional-protocol-features.md)
+* [Additional protocol features](get-to-know-auxilium/additional-protocol-features.md)
+* [Tokenomics💰](get-to-know-auxilium/tokenomics.md)
+* [Anti-Dumping Mechanism 🗑️](get-to-know-auxilium/anti-dumping-mechanism.md)
+* [Paper Hand Penalties 🧻](get-to-know-auxilium/paper-hand-penalties.md)
+* [Multi-Signature Wallet💳](get-to-know-auxilium/multi-signature-wallet.md)
 
 ## ⛰ The Future
 
