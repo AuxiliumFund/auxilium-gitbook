@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🧘♂ Essentials
+## 🧘♂ 🧘♂ Essentials
 
 * [What is Auxilium? 🤔](README.md)
 * [Protocol use-case 👍](essentials/protocol-use-case.md)
